@@ -3,4 +3,4 @@ owner=475809931107500032
 prefix=w
 game=Type whelp
 stayinchannel=true
-songinstatus=true
+
