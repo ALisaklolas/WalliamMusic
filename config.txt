@@ -1,4 +1,4 @@
-token=NDkwNDMzNjc2NjU2NTA4OTQw.Dn5PgQ.LBBsOminLhUlJUpXhGq5GWRHTfo
+token=NDkyMDUzNzA0MjcxNDYyNDAx.DqEyJA.TN3agW5KnpiNmZInMg6W_D2oNKQ
 owner=475809931107500032
 prefix=w
 game=Type whelp
