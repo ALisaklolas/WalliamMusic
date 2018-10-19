@@ -1,5 +1,5 @@
 token=NDkyMDUzNzA0MjcxNDYyNDAx.DqEyJA.TN3agW5KnpiNmZInMg6W_D2oNKQ
-owner=475809931107500032
+owner=323987823139094529
 prefix=j
 stayinchannel=true
 
